@@ -1,0 +1,80 @@
+@font-face {
+  font-family: chicago;
+  src: url('chicago.ttf');
+}
+@font-face{
+  font-family:romance;
+  src: url('romance.ttf');
+}
+
+#suite {
+  font-family: chicago;
+  font-size:120%;
+  margin:5%;
+  margin-top:10%;
+}
+
+#latex {
+  margin-top:10000px;
+  margin-bottom:100px;
+
+}
+
+
+h2 {
+  font-family: romance;
+  font-size: 200%;
+  margin:10%;
+
+
+} 
+
+
+#fin{
+  font-size: 100px;
+  color: yellow;
+  background-color:black;
+}
+.renvoi {
+  font-family:chicago;
+  
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  margin:auto;
+  margin-top:10%;
+  font-size: 42;
+  padding:10px;
+
+  background-color : #000000
+
+}
+
+#renvoi1 {
+  color:#ebba34;
+}
+
+#renvoi2 {
+  color:#34eb7d;
+}
+
+
+
+a {
+  font-family:chicago;
+  text-decoration: none;
+  color:#ebde34;
+  
+}
+
+#aud {
+  margin-top:100000px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:#000000;
+  padding:10px;
+}
+
